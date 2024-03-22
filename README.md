@@ -3,7 +3,10 @@ This is an official implementation for "Predicting Late Gadolinium Enhancement o
 
 ---
 
-## TODO
+## TO-DO
+
+After the publication of this study, codes and trained CGE model will be uploaded.
+
 - [ ] Upload implementation of CGE model.
 - [ ] Upload checkpoint.
 - [ ] Upload inference data sample.
