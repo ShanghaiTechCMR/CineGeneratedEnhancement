@@ -9,5 +9,5 @@ After the publication of this study, codes and trained CGE model will be uploade
 
 - [ ] Upload implementation of CGE model.
 - [ ] Upload checkpoint.
-- [ ] Upload inference data sample.
+- [ ] Upload data sample.
 
