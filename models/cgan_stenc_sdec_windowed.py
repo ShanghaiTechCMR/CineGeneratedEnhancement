@@ -1,9 +1,11 @@
 """
 Conditional GAN, Spatial Temporal UNet
-Courtesy to:
-    [IGITUGraz/WeatherDiffusion: Code for "Restoring Vision in Adverse Weather Conditions with Patch-Based
-     Denoising Diffusion Models" [TPAMI 2023]](https://github.com/IGITUGraz/WeatherDiffusion)
-    [sagan-pytorch/model.py at master · rosinality/sagan-pytorch](https://github.com/rosinality/sagan-pytorch/blob/master/model.py)
+
+This code is adapted from the following repository:
+  - [IGITUGraz/WeatherDiffusion: Code for "Restoring Vision in Adverse Weather Conditions with Patch-Based Denoising Diffusion Models" [TPAMI 2023]](https://github.com/IGITUGraz/WeatherDiffusion)
+  - [sagan-pytorch/model.py at master · rosinality/sagan-pytorch](https://github.com/rosinality/sagan-pytorch/blob/master/model.py)
+  
+Special thanks to the authors for their contributions.
 """
 import itertools
 import math
