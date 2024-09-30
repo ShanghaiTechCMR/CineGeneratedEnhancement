@@ -12,14 +12,14 @@ We provide:
 You can cite our work using the following BibTeX entry:
 
 ```bibtex
-@article{doi:10.1161/CIRCIMAGING.124.016786,
+@article{
 title = {Predicting Late Gadolinium Enhancement of Acute Myocardial Infarction in Contrast-Free Cardiac Cine MRI Using Deep Generative Learning},
 author = {Haikun Qi and Pengfang Qian and Langlang Tang and Binghua Chen and Dongaolei An and Lian-Ming Wu},
 journal = {Circulation: Cardiovascular Imaging},
-volume = {TBD},
-number = {TBD},
+volume = {17},
+number = {9},
 pages = {e016786},
-year = {TBD},
+year = {2024},
 doi = {10.1161/CIRCIMAGING.124.016786},
 url = {https://www.ahajournals.org/doi/abs/10.1161/CIRCIMAGING.124.016786},
 eprint = {https://www.ahajournals.org/doi/pdf/10.1161/CIRCIMAGING.124.016786}
